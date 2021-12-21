@@ -1,0 +1,10 @@
+C:\Users\Destroer\source\repos\Kyrsovai\Kyrsovai\bin\Debug\Kyrsovai.exe.config
+C:\Users\Destroer\source\repos\Kyrsovai\Kyrsovai\bin\Debug\Kyrsovai.exe
+C:\Users\Destroer\source\repos\Kyrsovai\Kyrsovai\bin\Debug\Kyrsovai.pdb
+C:\Users\Destroer\source\repos\Kyrsovai\Kyrsovai\obj\Debug\Kyrsovai.csproj.AssemblyReference.cache
+C:\Users\Destroer\source\repos\Kyrsovai\Kyrsovai\obj\Debug\Kyrsovai.Form1.resources
+C:\Users\Destroer\source\repos\Kyrsovai\Kyrsovai\obj\Debug\Kyrsovai.Properties.Resources.resources
+C:\Users\Destroer\source\repos\Kyrsovai\Kyrsovai\obj\Debug\Kyrsovai.csproj.GenerateResource.cache
+C:\Users\Destroer\source\repos\Kyrsovai\Kyrsovai\obj\Debug\Kyrsovai.csproj.CoreCompileInputs.cache
+C:\Users\Destroer\source\repos\Kyrsovai\Kyrsovai\obj\Debug\Kyrsovai.exe
+C:\Users\Destroer\source\repos\Kyrsovai\Kyrsovai\obj\Debug\Kyrsovai.pdb
